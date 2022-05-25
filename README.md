@@ -1,5 +1,3 @@
-## VeriNum: Formally Verified Numerical Methods
-
 [Andrew W. Appel](https://www.cs.princeton.edu/~appel/), Princeton University
 
 [David Bindel](https://www.cs.cornell.edu/~bindel/), Cornell University
