@@ -24,7 +24,7 @@ Our initial research projects (and results) are,
 
 # Bibliography
 
-- C-language floating-point proofs layered with VST and Flocq, by Andrew W. Appel and Yves Bertot.
+- C-language floating-point proofs layered with VST and Flocq, by Andrew W. Appel and Yves Bertot, _Journal of Formalized Reasoning_ volume 13, number 1, pages 1-16.
 - Verified Numerical Methods for Ordinary Differential Equations, by Ariel E. Kellison and Andrew W. Appel, May 2022.
 - VCFloat2: Floating-point Error Analysis in Coq, by Andrew W. Appel and Ariel E. Kellison, draft, April 2022.
 - A Unified Coq Framework for Verifying C Programs with Floating-Point Computations, by Tahina Ramananandro,  Paul Mountcastle, Benoit Meister, and Richard Lethin, _CPP'16: 5th ACM SIGPLAN Conference on Certified Programs and Proofs,_ pages 15-26, 2016.
