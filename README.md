@@ -1,4 +1,4 @@
-# VeriNum: Formally Verified Numerical Methods
+## VeriNum: Formally Verified Numerical Methods
 
 [Andrew W. Appel](https://www.cs.princeton.edu/~appel/), Princeton University
 
@@ -22,7 +22,7 @@ Our initial research projects (and results) are,
 - [VerifiedLeapfrog](https://github.com/VeriNum/VerifiedLeapfrog): A verified numerical method for an Ordinary Differential Equation, by Kellison and Appel.
 - [VCFloat2](https://github.com/VeriNum/vcfloat): Floating-point error analysis in Coq, by Appel & Kellison, improvements on an earlier open-source project by Ramananandro et al.
 
-# Bibliography
+## Bibliography
 
 - C-language floating-point proofs layered with VST and Flocq, by Andrew W. Appel and Yves Bertot, _Journal of Formalized Reasoning_ volume 13, number 1, pages 1-16.
 - Verified Numerical Methods for Ordinary Differential Equations, by Ariel E. Kellison and Andrew W. Appel, May 2022.
