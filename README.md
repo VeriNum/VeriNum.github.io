@@ -1,3 +1,6 @@
+<img src=VeriNum.png alt="VeriNum" width=384px height=288px/>
+<img src=FoVeNuMe.png alt="Formally Verified Numerical Methods" width=672px height=288px/>
+
 [Andrew W. Appel](https://www.cs.princeton.edu/~appel/), Princeton University
 
 [David Bindel](https://www.cs.cornell.edu/~bindel/), Cornell University
