@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: VeriNum
 description: Formally Verified Numerical Methods
+markdown: kramdown
