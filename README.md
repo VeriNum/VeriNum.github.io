@@ -18,13 +18,13 @@ of floating-point algorithms; and connecting all proofs end-to-end
 in Coq.
 
 Our initial research projects (and results) are,
-- [cbench_vst](https://github.com/cverified/cbench-vst)/sqrt: Squart root by Newton's Method, by Appel and Bertot.
-- [VerifiedLeapfrog](https://github.com/VeriNum/VerifiedLeapfrog): A verified numerical method for an Ordinary Differential Equation, by Kellison and Appel.
+- [cbench_vst](https://github.com/cverified/cbench-vst)/sqrt: Squart root by Newton's Method, by [Appel and Bertot](https://doi.org/10.6092/issn.1972-5787/11442).
+- [VerifiedLeapfrog](https://github.com/VeriNum/VerifiedLeapfrog): A verified numerical method for an Ordinary Differential Equation, by [Kellison and Appel](https://github.com/VeriNum/VerifiedLeapfrog/raw/main/Paper.pdf).
 - [VCFloat2](https://github.com/VeriNum/vcfloat): Floating-point error analysis in Coq, by Appel & Kellison, improvements on an earlier open-source project by Ramananandro et al.
 
 ## Bibliography
 
-- C-language floating-point proofs layered with VST and Flocq, by Andrew W. Appel and Yves Bertot, _Journal of Formalized Reasoning_ volume 13, number 1, pages 1-16.
-- Verified Numerical Methods for Ordinary Differential Equations, by Ariel E. Kellison and Andrew W. Appel, May 2022.
+- [C-language floating-point proofs layered with VST and Flocq](https://doi.org/10.6092/issn.1972-5787/11442), by Andrew W. Appel and Yves Bertot, _Journal of Formalized Reasoning_ volume 13, number 1, pages 1-16.
+- [Verified Numerical Methods for Ordinary Differential Equations](https://github.com/VeriNum/VerifiedLeapfrog/raw/main/Paper.pdf), by Ariel E. Kellison and Andrew W. Appel, May 2022.
 - VCFloat2: Floating-point Error Analysis in Coq, by Andrew W. Appel and Ariel E. Kellison, draft, April 2022.
-- A Unified Coq Framework for Verifying C Programs with Floating-Point Computations, by Tahina Ramananandro,  Paul Mountcastle, Benoit Meister, and Richard Lethin, _CPP'16: 5th ACM SIGPLAN Conference on Certified Programs and Proofs,_ pages 15-26, 2016.
+- [A Unified Coq Framework for Verifying C Programs with Floating-Point Computations](https://dl.acm.org/doi/10.1145/2854065.2854066), by Tahina Ramananandro,  Paul Mountcastle, Benoit Meister, and Richard Lethin, _CPP'16: 5th ACM SIGPLAN Conference on Certified Programs and Proofs,_ pages 15-26, 2016.
