@@ -1,5 +1,4 @@
-<img src=VeriNum.png alt="VeriNum" width=192px height=144px/>
-<img src=FoVeNuMe.png alt="Formally Verified Numerical Methods" width=336px height=144px/>
+<img src=VeriNum.png alt="VeriNum" width=192px height=144px/><img src=FoVeNuMe.png alt="Formally Verified Numerical Methods" width=336px height=144px/>
 
 [Andrew W. Appel](https://www.cs.princeton.edu/~appel/), Princeton University
 
