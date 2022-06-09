@@ -1,4 +1,4 @@
-![VeriNum](VeriNum.png) ![Formally Verified Numerical Methods](FoVeNuMe.png)
+![VeriNum](logo_full.png)
 
 [Andrew W. Appel](https://www.cs.princeton.edu/~appel/), Princeton University
 
