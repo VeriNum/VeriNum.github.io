@@ -30,3 +30,10 @@ Our initial research projects (and results) are,
 - [Verified Numerical Methods for Ordinary Differential Equations](https://github.com/VeriNum/VerifiedLeapfrog/raw/main/Paper.pdf), by Ariel E. Kellison and Andrew W. Appel, to appear in _NSV'22: 15th International Workshop on Numerical Software Verification_, August 2022.
 - [VCFloat2: Floating-point Error Analysis in Coq](https://github.com/VeriNum/vcfloat/raw/master/doc/vcfloat2.pdf), by Andrew W. Appel and Ariel E. Kellison, draft, April 2022.
 - [A Unified Coq Framework for Verifying C Programs with Floating-Point Computations](https://dl.acm.org/doi/10.1145/2854065.2854066), by Tahina Ramananandro,  Paul Mountcastle, Benoit Meister, and Richard Lethin, _CPP'16: 5th ACM SIGPLAN Conference on Certified Programs and Proofs,_ pages 15-26, 2016.
+
+## Funding
+
+VeriNum's various projects are supported in part by
+- The National Science Foundation for the grant "Collaborative Research: FMitF: Track I: Formally Verified Numerical Methods", to Princeton University (Appel, Principal Investigator) and Cornell University (Bindel)
+- Sandia National Laboratories, funding the collaboration of Dr. Geoffrey Hulette with these projects
+- U.S. Department of Energy Computational Science Graduate Fellowship (Ariel Kellison)
