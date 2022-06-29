@@ -8,6 +8,8 @@
 
 [Josh Cohen](https://www.cs.princeton.edu/~jmc16/), Princeton University
 
+[Tim Carstens](https://github.com/intoverflow/), RISC Zero
+
 In this collection of research projects, we take a layered approach to foundational verification
 of correctness and accuracy of numerical software--that is,
 formal machine-checked proofs about programs (not just algorithms),
