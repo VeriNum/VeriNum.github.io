@@ -4,6 +4,8 @@
 
 [David Bindel](https://www.cs.cornell.edu/~bindel/), Cornell University
 
+[Geoff Hulette](http://ghulette.github.io/), Sandia National Labs
+
 [Ariel Kellison](https://ak-2485.github.io/), Cornell University
 
 [Josh Cohen](https://www.cs.princeton.edu/~jmc16/), Princeton University
