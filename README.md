@@ -4,13 +4,22 @@
 
 [David Bindel](https://www.cs.cornell.edu/~bindel/), Cornell University
 
-[Geoff Hulette](http://ghulette.github.io/), Sandia National Labs
+[Jean-Baptiste Jeannin](http://www-personal.umich.edu/~jeannin/), University of Michigan
 
-[Ariel Kellison](https://ak-2485.github.io/), Cornell University
+[Karthik Duraisamy](https://aero.engin.umich.edu/people/duraisamy-karthik/), University of Michigan
 
-[Josh Cohen](https://www.cs.princeton.edu/~jmc16/), Princeton University
+--------------------------------------------------------
+[Geoff Hulette](http://ghulette.github.io/), Sandia National Labs,  _External Collaborator_
 
-[Tim Carstens](https://github.com/intoverflow/), RISC Zero
+[Ariel Kellison](https://ak-2485.github.io/), Cornell University,  _PhD Student_
+
+[Josh Cohen](https://www.cs.princeton.edu/~jmc16/), Princeton University,  _PhD Student_
+
+[Mohit Tekriwal](https://mohittkr.github.io/), University of Michigan, _PhD Student_
+
+[Tim Carstens](https://github.com/intoverflow/), RISC Zero,  _Research Staff_
+
+----------------------------------------------------------------
 
 In this collection of research projects, we take a layered approach to foundational verification
 of correctness and accuracy of numerical software--that is,
@@ -27,6 +36,7 @@ Our initial research projects (and results) are,
 - [cbench_vst](https://github.com/cverified/cbench-vst)/sqrt: Square root by Newton's Method, by [Appel and Bertot](https://doi.org/10.6092/issn.1972-5787/11442).
 - [VerifiedLeapfrog](https://github.com/VeriNum/VerifiedLeapfrog): A verified numerical method for an Ordinary Differential Equation, by [Kellison and Appel](https://github.com/VeriNum/VerifiedLeapfrog/raw/main/Paper.pdf).
 - [VCFloat2](https://github.com/VeriNum/vcfloat): Floating-point error analysis in Coq, by Appel & Kellison, improvements on an earlier open-source project by Ramananandro et al.
+- [Parallel Dot Product](https://github.com/VeriNum/pardotprod), demonstrating how to use VST to verify correctness of simple shared-memory task parallelism
 
 ## Bibliography
 
@@ -38,6 +48,7 @@ Our initial research projects (and results) are,
 ## Funding
 
 VeriNum's various projects are supported in part by
-- The National Science Foundation for the grant "Collaborative Research: FMitF: Track I: Formally Verified Numerical Methods", to Princeton University (Appel, Principal Investigator) and Cornell University (Bindel)
+- National Science Foundation grant 2219757 "Formally Verified Numerical Methods", to Princeton University (Appel, Principal Investigator) and grant 2219758 to Cornell University (Bindel)
+- National Science Foundation grant 2219997 "Foundational Approaches for End-to-end Formal Verification of Computational Physics" to the University of Michigan (Jeannin and Duraisamy)
 - Sandia National Laboratories, funding the collaboration of Dr. Geoffrey Hulette with these projects
 - U.S. Department of Energy Computational Science Graduate Fellowship (Ariel Kellison)
