@@ -9,15 +9,16 @@
 [Karthik Duraisamy](https://aero.engin.umich.edu/people/duraisamy-karthik/), University of Michigan
 
 --------------------------------------------------------
-[Geoff Hulette](http://ghulette.github.io/), Sandia National Labs,  _External Collaborator_
 
 [Ariel Kellison](https://ak-2485.github.io/), Cornell University,  _PhD Student_
 
-[Josh Cohen](https://www.cs.princeton.edu/~jmc16/), Princeton University,  _PhD Student_
-
 [Mohit Tekriwal](https://mohittkr.github.io/), University of Michigan, _PhD Student_
 
-[Tim Carstens](https://github.com/intoverflow/), RISC Zero,  _Research Staff_
+[Josh Cohen](https://www.cs.princeton.edu/~jmc16/), Princeton University,  _PhD Student_
+
+[Shengyi Wang](https://www.cs.princeton.edu/~shengyiw/), Princeton University, _Postdoc_
+
+Philip Johnson-Freyd, [Samuel Pollard](https://sampollard.github.io/), [Heidi Thornquist](https://en.wikipedia.org/wiki/Heidi_Thornquist),  Sandia National Labs,  _External Collaborators_
 
 ----------------------------------------------------------------
 
@@ -37,18 +38,19 @@ Our initial research projects (and results) are,
 - [VerifiedLeapfrog](https://github.com/VeriNum/VerifiedLeapfrog): A verified numerical method for an Ordinary Differential Equation, by [Kellison and Appel](https://github.com/VeriNum/VerifiedLeapfrog/raw/main/Paper.pdf).
 - [VCFloat2](https://github.com/VeriNum/vcfloat): Floating-point error analysis in Coq, by Appel & Kellison, improvements on an earlier open-source project by Ramananandro et al.
 - [Parallel Dot Product](https://github.com/VeriNum/pardotprod), demonstrating how to use VST to verify correctness of simple shared-memory task parallelism
+- [Stationary Iterative Methods](https://github.com/VeriNum/iterative_methods) with formally verified error bounds
 
 ## Bibliography
 
 - [C-language floating-point proofs layered with VST and Flocq](https://doi.org/10.6092/issn.1972-5787/11442), by Andrew W. Appel and Yves Bertot, _Journal of Formalized Reasoning_ volume 13, number 1, pages 1-16.
-- [Verified Numerical Methods for Ordinary Differential Equations](https://github.com/VeriNum/VerifiedLeapfrog/raw/main/Paper.pdf), by Ariel E. Kellison and Andrew W. Appel, to appear in _NSV'22: 15th International Workshop on Numerical Software Verification_, August 2022.
+- [Verified Numerical Methods for Ordinary Differential Equations](https://github.com/VeriNum/VerifiedLeapfrog/raw/main/Paper.pdf), by Ariel E. Kellison and Andrew W. Appel, in _NSV'22: 15th International Workshop on Numerical Software Verification_, August 2022.
 - [VCFloat2: Floating-point Error Analysis in Coq](https://github.com/VeriNum/vcfloat/raw/master/doc/vcfloat2.pdf), by Andrew W. Appel and Ariel E. Kellison, draft, April 2022.
-- [A Unified Coq Framework for Verifying C Programs with Floating-Point Computations](https://dl.acm.org/doi/10.1145/2854065.2854066), by Tahina Ramananandro,  Paul Mountcastle, Benoit Meister, and Richard Lethin, _CPP'16: 5th ACM SIGPLAN Conference on Certified Programs and Proofs,_ pages 15-26, 2016.
+- [Towards verified rounding error analysis for stationary iterative methods](https://github.com/VeriNum/iterative_methods/blob/main/correctness_workshop_paper.pdf), by Ariel Kellison, Mohit Tekriwal, Jean-Baptiste Jeannin, and Geoffrey Hulette, in _Correctness 2022: Sixth International Workshop on Software Correctness for HPC Applications_, November 2022. 
 
 ## Funding
 
 VeriNum's various projects are supported in part by
 - National Science Foundation grant 2219757 "Formally Verified Numerical Methods", to Princeton University (Appel, Principal Investigator) and grant 2219758 to Cornell University (Bindel)
 - National Science Foundation grant 2219997 "Foundational Approaches for End-to-end Formal Verification of Computational Physics" to the University of Michigan (Jeannin and Duraisamy)
-- Sandia National Laboratories, funding the collaboration of Dr. Geoffrey Hulette with these projects
 - U.S. Department of Energy Computational Science Graduate Fellowship (Ariel Kellison)
+- Sandia National Laboratories, funding the collaboration of Sandia participants with these projects
