@@ -22,7 +22,7 @@ Install via opam.  The package name is `coq-vcfloat` (opam publication is in pro
 VCFloat is an open-source project; the repository and license is at
 [https://github.com/VeriNum/vcfloat].
 
-# Documentation
+## Documentation
 
 [VCFloat Reference Manual](https://github.com/VeriNum/vcfloat/blob/master/doc/VCFloat-Manual.pdf), by Andrew W. Appel and Ariel E. Kellison
 
