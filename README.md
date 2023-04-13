@@ -16,7 +16,7 @@
 
 [Josh Cohen](https://www.cs.princeton.edu/~jmc16/), Princeton University,  _PhD Student_
 
-[Shengyi Wang](https://www.cs.princeton.edu/~shengyiw/), Princeton University, _Postdoc_
+[Shengyi Wang](https://www.cs.princeton.edu/~shengyiw/), Princeton University, _Research Scientist_
 
 Philip Johnson-Freyd, [Samuel Pollard](https://sampollard.github.io/), [Heidi Thornquist](https://en.wikipedia.org/wiki/Heidi_Thornquist),  Sandia National Labs,  _External Collaborators_
 
@@ -36,7 +36,7 @@ in Coq.
 Our initial research projects (and results) are,
 - [cbench_vst](https://github.com/cverified/cbench-vst)/sqrt: Square root by Newton's Method, by [Appel and Bertot](https://doi.org/10.6092/issn.1972-5787/11442).
 - [VerifiedLeapfrog](https://github.com/VeriNum/VerifiedLeapfrog): A verified numerical method for an Ordinary Differential Equation, by [Kellison and Appel](https://github.com/VeriNum/VerifiedLeapfrog/raw/main/Paper.pdf).
-- [VCFloat2](https://github.com/VeriNum/vcfloat): Floating-point error analysis in Coq, by Appel & Kellison, improvements on an earlier open-source project by Ramananandro et al.
+- [VCFloat2](vcfloat): Floating-point error analysis in Coq, by Appel & Kellison, improvements on an earlier open-source project by Ramananandro et al.
 - [Parallel Dot Product](https://github.com/VeriNum/pardotprod), demonstrating how to use VST to verify correctness of simple shared-memory task parallelism
 - [Stationary Iterative Methods](https://github.com/VeriNum/iterative_methods) with formally verified error bounds
 
