@@ -3,10 +3,10 @@
 VCFloat is a tool for Coq proofs about floating-point round-off error,
 as well as a Coq library useful for other reasoning about floating-point computations.
 
-When calculating x*5.7+y
+When calculating `x*5.7+y`
 in floating-point with a fixed number of mantissa bits,
-the result of x*5.7 cannot always be represented exactly
-in the same number of bits, ditto the result of the addition +y,
+the result of `x*5.7` cannot always be represented exactly
+in the same number of bits, ditto the result of the addition `+y`,
 so some low-order bits must be thrown away---there is _round-off error_.
 VCFloat can calculate and prove an error theorem, bounding the difference
 between the floating-point calculation and the exact value one would have
