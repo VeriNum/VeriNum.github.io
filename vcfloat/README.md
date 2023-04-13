@@ -1,3 +1,5 @@
+# VCFloat: Floating Point Round-off Error Analysis in Coq
+
 VCFloat is a tool for Coq proofs about floating-point round-off error,
 as well as a Coq library useful for other reasoning about floating-point computations.
 
