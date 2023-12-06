@@ -12,7 +12,7 @@
 
 [Ariel Kellison](https://ak-2485.github.io/), Cornell University,  _PhD Student_
 
-[Mohit Tekriwal](https://mohittkr.github.io/), University of Michigan, _PhD Student_
+[Mohit Tekriwal](https://mohittkr.github.io/), Lawrence Livermore Lab, _Postdoc_
 
 [Josh Cohen](https://www.cs.princeton.edu/~jmc16/), Princeton University,  _PhD Student_
 
