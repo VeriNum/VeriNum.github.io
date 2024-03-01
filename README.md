@@ -12,11 +12,13 @@
 
 [Ariel Kellison](https://ak-2485.github.io/), Cornell University,  _PhD Student_
 
-[Mohit Tekriwal](https://mohittkr.github.io/), Lawrence Livermore Lab, _Postdoc_
-
 [Josh Cohen](https://www.cs.princeton.edu/~jmc16/), Princeton University,  _PhD Student_
 
+[Yichen Tao](https://www.linkedin.com/in/yichen-tao-196478286), [Sahil Bola](https://www.linkedin.com/in/bholasahil), University of Michigan, _PhD Students_
+
 [Shengyi Wang](https://www.cs.princeton.edu/~shengyiw/), Princeton University, _Research Scientist_
+
+[Mohit Tekriwal](https://mohittkr.github.io/), Lawrence Livermore Lab, _Postdoc, External Collaborator_
 
 Philip Johnson-Freyd, [Samuel Pollard](https://sampollard.github.io/), [Heidi Thornquist](https://en.wikipedia.org/wiki/Heidi_Thornquist),  Sandia National Labs,  _External Collaborators_
 
