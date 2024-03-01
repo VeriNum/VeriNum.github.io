@@ -48,7 +48,7 @@ Our initial research projects (and results) are,
 - [LAProof: a library of formal accuracy and correctness proofs for sparse linear algebra programs](https://www.cs.princeton.edu/~appel/papers/LAProof.pdf), by Ariel E. Kellison, Andrew W. Appel, Mohit Tekriwal, and David Bindel, _30th IEEE International Symposium on Computer Arithmetic_, September 2023.
 - [Towards verified rounding error analysis for stationary iterative methods](https://github.com/VeriNum/iterative_methods/blob/main/correctness_workshop_paper.pdf), by Ariel Kellison, Mohit Tekriwal, Jean-Baptiste Jeannin, and Geoffrey Hulette, in _Correctness 2022: Sixth International Workshop on Software Correctness for HPC Applications_, November 2022.
 - [Verified Numerical Methods for Ordinary Differential Equations](https://github.com/VeriNum/VerifiedLeapfrog/raw/main/Paper.pdf), by Ariel E. Kellison and Andrew W. Appel, in _NSV'22: 15th International Workshop on Numerical Software Verification_, August 2022.
-- [VCFloat2: Floating-point Error Analysis in Coq](https://github.com/VeriNum/vcfloat/raw/master/doc/vcfloat2.pdf), by Andrew W. Appel and Ariel E. Kellison, draft, April 2022.
+- [VCFloat2: Floating-point Error Analysis in Coq](https://doi.org/10.1145/3636501.3636953), by Andrew W. Appel and Ariel E. Kellison, in _CPP 2024: Proceedings of the 13th ACM SIGPLAN International Conference on Certified Programs and Proofs_, pages 14–29, January 2024.
 - [C-language floating-point proofs layered with VST and Flocq](https://doi.org/10.6092/issn.1972-5787/11442), by Andrew W. Appel and Yves Bertot, _Journal of Formalized Reasoning_ volume 13, number 1, pages 1-16.
 
 ## Funding
