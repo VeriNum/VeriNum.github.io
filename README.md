@@ -10,7 +10,7 @@
 
 --------------------------------------------------------
 
-[Ariel Kellison](https://ak-2485.github.io/), Cornell University,  _PhD Student_
+[Ariel Kellison](https://ak-2485.github.io/), Sandia National Laboratory,  _Postdoc_
 
 [Josh Cohen](https://www.cs.princeton.edu/~jmc16/), Princeton University,  _PhD Student_
 
