@@ -10,17 +10,15 @@
 
 --------------------------------------------------------
 
-[Ariel Kellison](https://ak-2485.github.io/), Sandia National Laboratory,  _Postdoc_
-
-[Josh Cohen](https://www.cs.princeton.edu/~jmc16/), Princeton University,  _PhD Student_
+[Ariel Kellison](https://ak-2485.github.io/), _Consultant_
 
 [Yichen Tao](https://www.linkedin.com/in/yichen-tao-196478286), [Sahil Bola](https://www.linkedin.com/in/bholasahil), University of Michigan, _PhD Students_
 
-[Shengyi Wang](https://www.cs.princeton.edu/~shengyiw/), Princeton University, _Research Scientist_
-
-[Mohit Tekriwal](https://mohittkr.github.io/), Lawrence Livermore Lab, _Postdoc, External Collaborator_
+Dennis Corraliza, Cornell University, _PhD Student_
 
 Philip Johnson-Freyd, [Samuel Pollard](https://sampollard.github.io/), [Heidi Thornquist](https://en.wikipedia.org/wiki/Heidi_Thornquist),  Sandia National Labs,  _External Collaborators_
+
+Alumni:   [Mohit Tekriwal](https://mohittkr.github.io/), Michigan, _PhD Student_; [Josh Cohen](https://joscoh.github.io/),  _PhD Student_
 
 ----------------------------------------------------------------
 
@@ -41,9 +39,11 @@ Our initial research projects (and results) are,
 - [VCFloat2](vcfloat): Floating-point error analysis in Coq, by Appel & Kellison, improvements on an earlier open-source project by Ramananandro et al.
 - [Parallel Dot Product](https://github.com/VeriNum/pardotprod), demonstrating how to use VST to verify correctness of simple shared-memory task parallelism
 - [Stationary Iterative Methods](https://github.com/VeriNum/iterative_methods) with formally verified error bounds
+- [Finite Element Method](https://bindel-group.github.io/simple_cfem/) verification (in progress)
 
 ## Bibliography
 
+- [Formal Verification of COO to CSR Sparse Matrix Conversion](https://www.cs.princeton.edu/~appel/papers/coo-csr.pdf), by Andrew W. Appel, in _VSS 2025: International Workshop on Verification of Scientific Software_, 2025.
 - [Deterministic and Probabilistic Rounding Error Analysis for Mixed-Precision Arithmetic on Modern Computing Units](https://doi.org/10.48550/arXiv.2411.18747), by Sahil Bhola and Karthik Duraisamy, arXiv preprint, November 2024.
 - [Variance-informed Rounding Uncertainty Analysis for Floating-point Statistical Models](https://doi.org/10.48550/arXiv.2404.12556),  by Sahil Bhola and Karthik Duraisamy, arXiv preprint, April 2024.
 - [VCFloat2: Floating-point Error Analysis in Coq](https://doi.org/10.1145/3636501.3636953), by Andrew W. Appel and Ariel E. Kellison, in _CPP 2024: Proceedings of the 13th ACM SIGPLAN International Conference on Certified Programs and Proofs_, pages 14–29, January 2024.
@@ -57,6 +57,7 @@ Our initial research projects (and results) are,
 ## Funding
 
 VeriNum's various projects are supported in part by
+- Department of Energy grant DE-NA0004264 "Center for AI-enabled Exascale Prediction of Long-time Events in the Multimaterial Shock-assisted Chemical Reactions" to the University of Michigan (Duraisamy and Appel).
 - National Science Foundation grant 2219757 "Formally Verified Numerical Methods", to Princeton University (Appel, Principal Investigator) and grant 2219758 to Cornell University (Bindel)
 - National Science Foundation grant 2219997 "Foundational Approaches for End-to-end Formal Verification of Computational Physics" to the University of Michigan (Jeannin and Duraisamy)
 - U.S. Department of Energy Computational Science Graduate Fellowship (Ariel Kellison)
