@@ -43,7 +43,7 @@ Our initial research projects (and results) are,
 
 ## Bibliography
 
-- [Formal Verification of COO to CSR Sparse Matrix Conversion](https://www.cs.princeton.edu/~appel/papers/coo-csr.pdf), by Andrew W. Appel, in _VSS 2025: International Workshop on Verification of Scientific Software_, 2025.
+- [Formal Verification of COO to CSR Sparse Matrix Conversion](https://doi.org/10.4204/EPTCS.432.3), by Andrew W. Appel, in [_VSS 2025: International Workshop on Verification of Scientific Software_](https://arxiv.org/html/2510.12314/), EPTCS 432, pp. 3-18, 2025.
 - [Deterministic and Probabilistic Rounding Error Analysis for Mixed-Precision Arithmetic on Modern Computing Units](https://doi.org/10.48550/arXiv.2411.18747), by Sahil Bhola and Karthik Duraisamy, arXiv preprint, November 2024.
 - [Variance-informed Rounding Uncertainty Analysis for Floating-point Statistical Models](https://doi.org/10.48550/arXiv.2404.12556),  by Sahil Bhola and Karthik Duraisamy, arXiv preprint, April 2024.
 - [VCFloat2: Floating-point Error Analysis in Coq](https://doi.org/10.1145/3636501.3636953), by Andrew W. Appel and Ariel E. Kellison, in _CPP 2024: Proceedings of the 13th ACM SIGPLAN International Conference on Certified Programs and Proofs_, pages 14–29, January 2024.
