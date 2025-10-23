@@ -39,7 +39,8 @@ Our initial research projects (and results) are,
 - [VCFloat2](vcfloat): Floating-point error analysis in Coq, by Appel & Kellison, improvements on an earlier open-source project by Ramananandro et al.
 - [Parallel Dot Product](https://github.com/VeriNum/pardotprod), demonstrating how to use VST to verify correctness of simple shared-memory task parallelism
 - [Stationary Iterative Methods](https://github.com/VeriNum/iterative_methods) with formally verified error bounds
-- [Finite Element Method](https://bindel-group.github.io/simple_cfem/) verification (in progress)
+- [LAProof: Accuracy and Correctness of Linear Algebra Programs](https://verinum.org/LAProof/)
+- [Finite Element Method](https://verinum.org/simple_cfem/) verification (in progress)
 
 ## Bibliography
 
